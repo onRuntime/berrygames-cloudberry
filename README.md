@@ -10,7 +10,7 @@
 </div>
 
 # BerryGames - CloudBerry
-CloudBerry is official Java API from BerryGames.
+CloudBerry is the Spigot Server API plugin from BerryGames.
 
 ## Support
 <a href="https://www.patreon.com/onruntime">
